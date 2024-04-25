@@ -8,3 +8,4 @@ const year = date.getFullYear();
 const hours = date.getHours();
 const minutes = date.getMinutes();
 const formattedDate = `${day} - ${month} - ${year}`;
+console.log(formattedDate);
